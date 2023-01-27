@@ -1,4 +1,5 @@
 # Fundamentos-de-R
+el curso esta basado en 
 ## Syllabus
 * Estructuras, tipos de datos y sintaxis
 * Estadistica descriptiva
@@ -6,3 +7,6 @@
 * Visualización de datos
 * Organización de infoprmación en R Markdown
 * Proyecto
+
+## libros
+[“R Para ciencia de datos”](https://es.r4ds.hadley.nz/)
