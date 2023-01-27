@@ -10,12 +10,19 @@
 
 ## libros
 * [“R Para ciencia de datos”](https://es.r4ds.hadley.nz/)
-* [Fundamentals of Data Visualization](https://t.co/Vfnfkfh6YG)
-* [libro de Economía naranja](https://webimages.iadb.org/publications/spanish/document/La-Econom%C3%ADa-Naranja-Una-oportunidad-infinita.pdf)
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
+## Revistas, link e información adicional de R
+* [libro de Economía naranja](https://webimages.iadb.org/publications/spanish/document/La-Econom%C3%ADa-Naranja-Una-oportunidad-infinita.pdf)
+* [prueba de hipótesis](https://t.co/Vfnfkfh6YG)
 
 ## Enlaces de data set
 * [The cia world factbook](https://www.cia.gov/the-world-factbook/)
 * [United Nations](https://www.who.int/campaigns/world-health-day/2021)
 * [World Bank Group](https://www.worldbank.org/en/home)
 * [Our world in data](https://ourworldindata.org/)
+
+## Cursos Online
+*
+## Revistas de investigación y papers
+* 
