@@ -1,5 +1,5 @@
 # Fundamentos-de-R
-el curso esta basado en 
+
 ## Syllabus
 * Estructuras, tipos de datos y sintaxis
 * Estadistica descriptiva
@@ -9,4 +9,8 @@ el curso esta basado en
 * Proyecto
 
 ## libros
-[“R Para ciencia de datos”](https://es.r4ds.hadley.nz/)
+* [“R Para ciencia de datos”](https://es.r4ds.hadley.nz/)
+
+
+## Enlaces de data set
+* The cia world factbook (https://www.cia.gov/the-world-factbook/)
