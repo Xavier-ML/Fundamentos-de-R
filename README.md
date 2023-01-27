@@ -10,7 +10,7 @@
 
 ## libros
 * [“R Para ciencia de datos”](https://es.r4ds.hadley.nz/)
-* 
+* [libro de Economía naranja](https://webimages.iadb.org/publications/spanish/document/La-Econom%C3%ADa-Naranja-Una-oportunidad-infinita.pdf)
 
 
 ## Enlaces de data set
