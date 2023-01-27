@@ -10,7 +10,11 @@
 
 ## libros
 * [“R Para ciencia de datos”](https://es.r4ds.hadley.nz/)
+* 
 
 
 ## Enlaces de data set
-* The cia world factbook (https://www.cia.gov/the-world-factbook/)
+* [The cia world factbook](https://www.cia.gov/the-world-factbook/)
+* [United Nations](https://www.who.int/campaigns/world-health-day/2021)
+* [World Bank Group](https://www.worldbank.org/en/home)
+* [Our world in data](https://ourworldindata.org/)
