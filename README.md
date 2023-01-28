@@ -11,6 +11,7 @@
 ## libros
 * [“R Para ciencia de datos”](https://es.r4ds.hadley.nz/)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+* [Welcome to a Little Book of R for Bioinformatics!](https://t.co/CddIoaMsxa)
 
 ## Revistas, link e información adicional de R
 * [libro de Economía naranja](https://webimages.iadb.org/publications/spanish/document/La-Econom%C3%ADa-Naranja-Una-oportunidad-infinita.pdf)
