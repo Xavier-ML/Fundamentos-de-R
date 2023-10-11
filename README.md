@@ -24,6 +24,6 @@
 * [Our world in data](https://ourworldindata.org/)
 
 ## Cursos Online
-*
+*[Getting started in R: First Steps](https://www.kaggle.com/code/rtatman/getting-started-in-r-first-steps)
 ## Revistas de investigación y papers
 * 
